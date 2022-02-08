@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon " type="image/png" href="./assets/site-icon.png" />
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Anime Trivia Quiz</title>
+</head>
+<body>
+    <div class="container" id="quiz-container">
+        <div class="box" id="quiz-box">
+            <h3 class="question" id="question">
+                Question root
+            </h3>
+            <div class="image-container">
+            <a href="https://animevyuh.org/"><img src="" alt="animevyuh-quiz" id="change"></a>
+            </div>
+            <ul>
+                <li>
+                    <input type="radio" name="ans" id="a" class="ans">
+                    <label for="a" id="optiona">Option</label>
+                </li>
+                <li>
+                    <input type="radio" name="ans" id="b" class="ans">
+                    <label for="b" id="optionb">Option</label>
+                </li>
+                <li><input type="radio" name="ans" id="c" class="ans">
+                    <label for="c" id="optionc">Option</label>
+                </li>
+                <li><input type="radio" name="ans" id="d" class="ans">
+                    <label for="d" id="optiond">Option</label>
+                </li>
+            </ul>
+            <button type="submit" id="sub_btn" name="Submit">
+                Submit
+            </button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
