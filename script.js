@@ -27,7 +27,7 @@ const questions = [
         url:"https://cdn.wallpapersafari.com/27/41/eNTJtc.jpg",
     },
     {
-        q: "Who voices Vincent Law",
+        q: "Who voices Vincent Law?",
         a: "Koji Yusa",
         b: "Kenichi Suzumura",
         c: "Masaki Terasoma",
@@ -54,7 +54,7 @@ const questions = [
         url:"https://pm1.narvii.com/7081/2ef13dea30580a8f567096ea40b96de5ef88dee6r1-1280-720v2_hq.jpg",
     },
     {
-        q: "What Anime Is This",
+        q: "What Anime Is This?",
         a: "Black Lagoon",
         b: "Mardock Scramble",
         c: "Ergo Proxy",
@@ -72,7 +72,7 @@ const questions = [
         url:"https://i.pinimg.com/736x/37/47/c6/3747c64f4cfb3d4371bc55123b2529c1.jpg",
     },
     {
-        q: "What is the real name of Roberta in Black Lagoon",
+        q: "What is the real name of Roberta in Black Lagoon?",
         a: "Rebecca",
         b: "Rosarita",
         c: "Shenhua",
@@ -81,7 +81,7 @@ const questions = [
         url:"https://i.ytimg.com/vi/HjyouKCC5G8/maxresdefault.jpg"
     },
     {
-        q: "Where does Gintoki spend his money",
+        q: "Where does Gintoki spend his money?",
         a: "Pachinko",
         b: "Sweets",
         c: "Paying rent",
