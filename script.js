@@ -63,7 +63,7 @@ const questions = [
         url:"./assets/1.jpg",
     },
     {
-        q: "What many years count does Senku keep track of?",
+        q: "How many years count does Senku keep track of?",
         a: "3600 years",
         b: "3700 years",
         c: "3800 years",
@@ -81,7 +81,7 @@ const questions = [
         url:"https://i.ytimg.com/vi/HjyouKCC5G8/maxresdefault.jpg"
     },
     {
-        q: "Where does Gintoki spend his money?",
+        q: "Where does Gintoki spend his money the most?",
         a: "Pachinko",
         b: "Sweets",
         c: "Paying rent",
